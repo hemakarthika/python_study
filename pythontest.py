@@ -1,2 +1,5 @@
-print("hello world")
-print("hello world_114")
+import sys
+a=sys.argv[1]
+print (a)
+b=len(a)
+print("length is ",b)
