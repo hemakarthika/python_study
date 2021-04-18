@@ -11,3 +11,4 @@ while(a<(n-1)):
     else:
         a=a+1
 print(output)
+#done by hema
