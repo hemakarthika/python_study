@@ -1,7 +1,7 @@
 def palin_prg(s):
     return s==s[::-1]
 
-a=input("enter the string: ")
+a=input("enter the new string: ")
 
 
 if palin_prg(a):
