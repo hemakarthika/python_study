@@ -17,4 +17,3 @@ else:
     a = "none"
 
 print(a)
-
